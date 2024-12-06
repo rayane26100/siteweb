@@ -1,0 +1,75 @@
+body {
+background: linear-gradient(pink, white);
+}
+
+p {
+  color: black;
+}
+
+A {
+  color: pink;
+}
+   
+
+
+.titre1page2 {
+  color: red;
+}
+
+.page1titre1 {
+  color: red;
+}
+
+.P1P {
+  color: blue;
+}
+
+.P1P {
+  font-size: 50px;
+}
+
+.tableaupage1 {
+  border: 5px solid;
+}
+
+.tableaupage1 {
+  text-align: center;
+}
+
+.T2P1 {
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.T5Y7 {
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  padding: 60px;
+  text-align: center;
+  background: pink;
+  font-size: 30px;
+}
+
+{
+  font-family: Arial;
+  margin: 0;
+}
+
+.content {padding:20px;}
+
+.header {
+  padding: 1px;
+  text-align: center;
+  background: pink;
+  font-size: 30px;
+}
+
+{
+  font-family: Arial;
+  margin: 0;
+}
+
+.content {padding:20px;}
